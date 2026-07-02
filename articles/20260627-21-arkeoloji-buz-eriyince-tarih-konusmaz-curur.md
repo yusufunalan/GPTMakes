@@ -87,7 +87,35 @@ Dördüncü eleştiri: Kaynak dağılımı sorunudur. Sınırlı bilimsel fonlar
 
 Bu eleştiriler yazının ana fikrini zayıflatmaz; tam tersine güçlendirir. Çünkü mesele "buzdan çıkan şeyler harika" demek değildir. Mesele, eriyen arşivleri korumak için uygarlığın yeni bir aciliyet dili geliştirmesi gerektiğidir.
 
-## 5. Özgün düşünce deneyi: Son Buz Müzesi
+## 5. Buz, Permafrost ve Kıyı: Aynı Kaybın Farklı Yüzleri
+
+Buzul arkeolojisi çoğu zaman dağ geçitleri ve eriyen buz alanlarıyla anlatılır; fakat mesele yalnızca dağların sorunu değildir. Permafrost, donmuş toprak, kutup kıyıları, turbalıklar ve su altında kalan kıyı yerleşimleri de benzer bir hafıza krizinin parçasıdır. İklim değiştikçe yalnızca buz çözülmez; saklama koşulları değişir.
+
+Permafrost çözülünce organik kalıntılar, ahşap yapılar, hayvan bedenleri, eski patojen izleri, yerleşim tabakaları ve kültürel miras bir anda oksijen, mikrobiyal etkinlik ve su hareketiyle karşılaşır. Binlerce yıl donmuş kalan bir şey, normal sıcaklıkta hızla bozulabilir. Kıyı erozyonu ise başka bir kayıp biçimi yaratır: Yerleşim alanı yavaş yavaş denize karışır. Kazı yapılmadan önce alanın kendisi yok olur.
+
+Bu nedenle "eriyen buz arşivi" ifadesini daha geniş düşünmek gerekir. İnsanlığın geçmişi yalnızca müze depolarında değil, belirli çevresel koşullarda tutuluyor. Toprak, buz, tuz, kuraklık, oksijensizlik, soğuk ve karanlık bazen arşiv görevi görüyor. Bu koşullar değiştiğinde arşiv de çözülüyor.
+
+Buradaki önemli sonuç şudur: Arkeolojik koruma artık yalnızca sit alanı etrafına çit çekmekle yapılamaz. Korunması gereken şey bazen nesnenin kendisi değil, nesneyi saklayan ortamdır. Bir buzulun çekilmesi, bir kıyının aşınması, bir donmuş zeminin yumuşaması kültürel miras politikasıdır. İklim politikası ile arkeoloji politikası birbirinden ayrılamaz hale gelir.
+
+Bu aynı zamanda yeni bir öncelik sorunu doğurur. Her alan kurtarılamaz. Her buluntu çıkarılamaz. Her kıyı yerleşimi belgelenemez. Bu acı gerçek, arkeolojiyi seçim yapmak zorunda bırakır. Hangi alanlar hızlıca taranacak? Hangi bilgiler önceliklendirilecek? Yerel toplum neyi korumak istiyor? Bilim dünyası hangi veriyi acil görüyor? Kaynaklar sınırlıysa kararın adaleti nasıl sağlanacak?
+
+Geçmişin korunması artık yalnızca geçmişe saygı değil, gelecek nesillere karşı hesap verme meselesidir.
+
+## 6. Kimin Hafızası, Kimin Buluntusu?
+
+Eriyen buzdan çıkan nesneler genellikle "insanlığın ortak mirası" diye anlatılır. Bu ifade güzel ama yeterli değildir. Çünkü her ortak mirasın bir de yerel sahibi, yaşayan hafızası ve politik bağlamı vardır.
+
+Bir dağ geçidinden çıkan ayakkabı yalnızca bilimsel veri değildir. O dağla yaşayan topluluklar için coğrafi hafızanın parçası olabilir. Bir av rotası, bugün hâlâ kullanılan yerel bilgiyle çakışabilir. Bir beden ya da insan kalıntısı bulunduğunda mesele daha da hassaslaşır: Bu kişi kimin atasıdır? Hangi ritüel saygı gösterilmelidir? Analiz için örnek almak ne kadar meşrudur? Sergilemek gerekir mi, yoksa yeniden gömmek mi?
+
+Arkeolojinin eski dönemlerinde buluntu çoğu zaman uzmanların ve müzelerin diliyle konuşurdu. Bugün bu yeterli değil. Yerel topluluklar, yerli halklar, bölge sakinleri, saha rehberleri ve kültürel miras kurumları kararın parçası olmalıdır. Çünkü geçmiş yalnızca laboratuvarda okunmaz; yaşanan yerde de anlam taşır.
+
+Bu durum bilimsel çalışmayı yavaşlatabilir. Ama yavaşlama her zaman kötü değildir. Bazı buluntular hızlı müdahale ister; bazı kararlar ise aceleye gelmemelidir. Bir nesneyi kurtarmak için hız gerekirken, onun nasıl anlatılacağı için saygı gerekir.
+
+Buzul arkeolojisinin etik sorusu burada derinleşir: Eriyen arşivden çıkan şeyi kim konuşacak? Sadece onu bulan mı? Onu analiz eden mi? Onu sergileyen müze mi? O coğrafyada yaşayan insanlar mı? Yoksa bütün bu seslerin birlikte kurduğu daha dikkatli bir anlatı mı?
+
+Geleceğin iyi arkeolojisi yalnızca daha fazla veri toplayan arkeoloji olmayacak. Daha iyi dinleyen arkeoloji olacak.
+
+## 7. Özgün düşünce deneyi: Son Buz Müzesi
 
 Bir gelecek düşünelim. Yıl 2085. Alplerin, İskandinav dağlarının, Himalaya geçitlerinin ve And buz alanlarının büyük kısmı ya çekilmiş ya da parçalanmış. Dünya, geçmişte erime döneminde kurtarılabilen nesnelerden oluşan büyük bir "Son Buz Müzesi" kurmuş.
 
@@ -101,7 +129,7 @@ Ziyaretçiler müzeden çıkarken şunu fark ediyor: Asıl arşiv, vitrinde serg
 
 Bu düşünce deneyi bize bugünün sorusunu sorar: Gelecekte hangi boşluklardan sorumlu tutulacağız?
 
-## 6. Geleceğe yönelik çıkarımlar: arkeoloji artık erken uyarı sistemi kurmalı
+## 8. Geleceğe yönelik çıkarımlar: arkeoloji artık erken uyarı sistemi kurmalı
 
 Buzul arkeolojisinin geleceği yalnızca daha iyi kazı tekniklerinde değil, erken uyarı ve hızlı müdahale sistemlerinde yatıyor. Bu alan neredeyse afet yönetimine benzer bir mantık gerektiriyor.
 
@@ -117,7 +145,7 @@ Beşinci ihtiyaç, yerel toplumların merkeze alınmasıdır. Dağ geçitleri ya
 
 Gelecekte iyi arkeoloji, geçmişi bulmaktan önce geçmişin yok olma hızını ölçmek zorunda kalacak.
 
-## 7. Güçlü kapanış: buzun altında tarih değil, sorumluluk var
+## 9. Güçlü kapanış: buzun altında tarih değil, sorumluluk var
 
 Buzullar eridiğinde, yalnızca su akmıyor. İnsanlığın saklı yürüyüşleri, kayıp rotaları, unutulmuş korkuları ve gündelik becerileri yüzeye çıkıyor.
 
@@ -133,9 +161,9 @@ Sonra çürür.
 
 ## Kaynak Notları
 
-Bu yazı, 2026'da gündeme gelen buzul arkeolojisi ve eriyen buz arşivleri tartışmalarından ilham alır. Norveç'teki "Secrets of the Ice" çalışmaları, buzdan çıkan yaklaşık binlerce organik buluntunun eski dağ geçitleri ve av rotaları hakkında nasıl veri ürettiğini göstermektedir. Ice Memory Foundation'ın 2026'da Antarktika'da dağ buz çekirdeklerini saklamak için açtığı buz mağarası, iklim arşivlerinin yalnızca analiz değil koruma meselesi olduğunu gösteren önemli bir örnektir. Ötzi üzerine yapılan yeni mikrobiyom çalışmaları da eski insan kalıntılarının statik nesneler değil, biyolojik ve çevresel veri sistemleri olarak okunabileceğini hatırlatır.
+Bu yazı buzul arkeolojisi, iklim değişimi, eriyen doğal arşivler, permafrost mirası, eski DNA, antik mikrobiyom ve kültürel miras koruma tartışmalarından ilham alır. Norveç ve Alpler başta olmak üzere dağlık bölgelerde yürütülen buzul arkeolojisi çalışmaları, buzdan çıkan organik buluntuların eski geçitler, av rotaları, gündelik nesneler ve hareket ağları hakkında nasıl veri üretebildiğini gösterir.
 
-Kullanılan güncel kaynaklar: People / Secrets of the Ice haber özeti, The Guardian'ın Ice Memory Foundation Antarktika buz çekirdeği arşivi haberi, Microbiome dergisinde yayımlanan Ötzi mikrobiyom çalışmasına ilişkin haberler ve 2025-2026 buzul kaybı literatürü.
+Metin belirli bir keşfi merkeze almak yerine eriyen arşivlerin genel mantığını tartışır: Buz, donmuş toprak ve kıyı ortamları geçmişi saklayabilir; fakat iklim koşulları değiştiğinde aynı arşivler hızla bozulabilir. Ötzi ve benzeri iyi korunmuş insan kalıntıları üzerine yapılan çalışmalar, eski bedenlerin yalnızca iskelet değil, giysi, alet, beslenme, hastalık, mikrobiyom ve çevresel temas izleriyle birlikte okunması gerektiğini hatırlatır.
 
 ## İlişkili Okuma Ağı
 

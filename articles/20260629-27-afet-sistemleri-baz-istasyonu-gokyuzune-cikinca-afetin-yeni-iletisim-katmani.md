@@ -87,13 +87,53 @@ Bir deprem sonrası milyonlarca telefon aynı anda bağlanmaya çalışırsa ne 
 
 Gökyüzüne baz istasyonu koymak teknik sorudur; kimin konuşacağına karar vermek politik sorudur.
 
+## Önceliklendirme: Her Mesaj Eşit Değildir
+
+Afet anında iletişim kapasitesi sınırlıysa, en zor soru teknik değil ahlakidir: Hangi mesaj önce gidecek?
+
+Normal zamanda ağlar çoğu kullanıcıyı benzer biçimde taşımaya çalışır. Krizde ise bu eşitlik ilk bakışta adil görünse de pratikte tehlikeli olabilir. Bir kişinin "ben iyiyim" mesajı, başka bir kişinin "enkaz altında yaralı var" mesajıyla aynı öncelikte olmamalıdır. Bir kamu uyarısı, rastgele sosyal medya trafiğinden önce gitmelidir. Saha ekibinin koordinasyon bilgisi, panikle gönderilen tekrarlı mesajların altında ezilmemelidir.
+
+Direct-to-Cell gibi sınırlı kapasiteli katmanlarda önceliklendirme daha da kritik olur. Sistem yalnızca bağlantı vermemeli; bağlantının ne için kullanılacağını da düzenlemelidir. Acil durum mesajları, sağlık çağrıları, konum paylaşımı, kısa ihtiyaç kodları ve kamu duyuruları için ayrı hizmet kalitesi gerekebilir.
+
+Bu noktada basit mesaj şablonları önem kazanır. Serbest metin insani olarak anlaşılır ama sistemsel olarak zor işlenir. "Güvendeyim", "yaralı var", "konum gönder", "ilaç gerekiyor", "su gerekiyor", "bina hasarlı", "tahliye lazım" gibi yapılandırılmış mesajlar düşük bant genişliğiyle daha çok hayat bilgisi taşıyabilir.
+
+Ama önceliklendirme aynı zamanda güven meselesidir. Kullanıcılar sistemin hangi mesajı neden önce taşıdığını bilmezse adaletsizlik hissi oluşabilir. Kriz anında herkesin mesajı kendisi için acildir. Bu yüzden afet iletişiminde teknik öncelik kuralları normal zamanda açıkça anlatılmalı, tatbikatlarda denenmeli ve kamu kurumlarıyla operatörler arasında önceden anlaşılmalıdır.
+
+Kriz anında yazılan kural geç kalmış kuraldır.
+
+## Son Yüz Metre: Sinyal Geldi, Peki Sonra?
+
+Afet iletişiminde çoğu teknoloji tartışması büyük bağlantıya odaklanır: uydu çalışıyor mu, baz istasyonu ayakta mı, fiber koptu mu? Oysa bilginin son yüz metresi en az omurga kadar önemlidir.
+
+Bir kişi uydu üzerinden "yardım lazım" mesajı gönderebilir. Bu mesaj kime düşecek? Otomatik olarak hangi kriz merkezine aktarılacak? Yerel ekip bunu görecek mi? Aynı adresten on mesaj gelirse bir olay mı sayılacak, on olay mı? Mesaj çözüldüğünde güncellenecek mi? Yanlış konum, düşük pil, panik ve dil hataları nasıl yönetilecek?
+
+Bağlantı kurmak yardımın başlangıcıdır, kendisi değil.
+
+Direct-to-Cell sisteminin gerçek değeri, yerel afet veri zincirine bağlandığında ortaya çıkar. Kişiden gelen kısa mesaj, mahallenin durum panosuna, belediye kriz merkezine, sağlık koordinasyonuna ve saha ekibine anlaşılır biçimde düşebilmelidir. Aksi halde gökyüzünden gelen sinyal, yerdeki karmaşaya eklenir.
+
+Son yüz metre aynı zamanda fiziksel dünyadır. Telefonu olmayan yaşlılar, şarjı bitenler, yaralı olduğu için mesaj atamayanlar, çocuklar, dil bariyeri yaşayanlar, engelliler, kapalı alanda sinyal alamayanlar ne olacak? Uydu katmanı onları otomatik olarak kapsamaz. Bu yüzden mahalle gönüllüleri, kapı kontrolü, fiziksel ilan panoları, telsizli ekipler ve toplanma noktaları hâlâ gereklidir.
+
+Afet iletişimi yalnızca verinin gökyüzüne çıkması değil, yardımın yerde doğru kapıya inmesidir.
+
+## Enerji: Bağlantının Sessiz Şartı
+
+Telefonun uyduya mesaj gönderebilmesi için önce telefonun açık olması gerekir. Bu basit gerçek afet teknolojisi tartışmalarında bazen unutulur. Deprem, sel, yangın veya uzun elektrik kesintisinde batarya en temel iletişim altyapısına dönüşür.
+
+Direct-to-Cell, baz istasyonu çöktüğünde umut verebilir; fakat kullanıcıların telefonları bitmişse, yerel şarj noktaları yoksa, powerbankler tükenmişse ve enerji dağıtımı planlanmamışsa bu umut kısa sürer. Afet iletişiminin enerji planı olmadan bağlantı planı eksiktir.
+
+Bu nedenle gökyüzü katmanı, mahalle ölçeğinde enerji yedekleriyle birlikte düşünülmelidir: güneş panelli şarj noktaları, jeneratör destekli toplanma alanları, düşük güç modları, acil mesaj için pil koruma protokolleri, kamu binalarında şarj öncelikleri. Telefonun ekran parlaklığı, uygulama kullanımı, gereksiz video çekimi ve sürekli yeniden bağlanma denemeleri bile kriz anında kaynak yönetimi meselesidir.
+
+Gelecekte telefonlar afet moduna geçtiğinde otomatik olarak enerji tasarrufu, düşük bant genişliği, konum sıkıştırma ve yapılandırılmış mesaj arayüzüne geçebilir. Bu tasarım ayrıntısı gibi görünür; ama afetin ilk 72 saatinde tasarım ayrıntıları hayat bilgisine dönüşür.
+
+Bağlantının yakıtı enerjidir. Enerji yoksa gökyüzü bile susar.
+
 ## Karşıt görüşler ve eleştiriler
 
 Birinci eleştiri teknik kapasite üzerinedir. D2C sistemleri başlangıçta düşük bant genişliği sunar. Bu yüzden “herkesin interneti olacak” beklentisi yanlıştır. Afet anında insanlar fotoğraf, video ve sosyal medya kullanmak isteyebilir; sistem bunu kaldıramayabilir.
 
 İkinci eleştiri erişim eşitsizliğidir. Uyumlu telefon, operatör anlaşması, eSIM, kayıt koşulları veya bölgesel lisanslar herkesi kapsamayabilir. En kırılgan gruplar yine dışarıda kalabilir: yaşlılar, düşük gelirli kişiler, eski cihaz kullananlar, teknik aktivasyon yapamayanlar.
 
-Üçüncü eleştiri astronomi ve elektromanyetik kirlilik tarafındadır. Alçak yörünge uydu sayısının artması, gökyüzü gözlemleri ve radyo astronomi üzerinde etkiler yaratabilir. Direct-to-Cell uyduların istenmeyen elektromanyetik yayılımları üzerine 2026’da yayımlanan teknik analizler, bu konunun yalnızca telekom değil bilimsel gözlem altyapısı açısından da düşünülmesi gerektiğini gösteriyor.
+Üçüncü eleştiri astronomi ve elektromanyetik kirlilik tarafındadır. Alçak yörünge uydu sayısının artması, gökyüzü gözlemleri ve radyo astronomi üzerinde etkiler yaratabilir. Direct-to-Cell uyduların istenmeyen elektromanyetik yayılımları üzerine yapılan teknik analizler, bu konunun yalnızca telekom değil bilimsel gözlem altyapısı açısından da düşünülmesi gerektiğini gösteriyor.
 
 Dördüncü eleştiri egemenlik meselesidir. Bir ülkenin afet iletişimi yabancı bir özel şirketin uydu ağına ne kadar dayanabilir? Afette ticari servis kamu hizmetine nasıl dönüşür? Acil durum öncelikleri sözleşmeyle mi, yasayla mı, uluslararası standartla mı belirlenir?
 
@@ -125,6 +165,10 @@ Dördüncü çıkarım: yerel sistemler ihmal edilmemeli. Uydu varsa bile mahall
 
 Beşinci çıkarım: afet simülasyonları artık uydu bağlantısı senaryolarını da içermeli. Kapasite, önceliklendirme, operatörler arası dolaşım, kamu kurumlarına veri aktarımı ve yanlış bilgi yönetimi test edilmelidir.
 
+Altıncı çıkarım: enerji planı iletişim planının parçası olmalıdır. Şarj, düşük güç modları, yerel enerji yedekleri ve acil telefon kullanım eğitimi olmadan uydu bağlantısının pratik değeri azalır.
+
+Yedinci çıkarım: erişim adaleti baştan tasarlanmalıdır. Eski telefon kullananlar, teknik ayar yapamayanlar, engelliler, yaşlılar ve düşük gelirli kullanıcılar dışarıda kalırsa gökyüzü katmanı toplumun en kırılgan kısmını değil, zaten daha bağlantılı olanları güçlendirebilir.
+
 ## Güçlü kapanış: gökyüzü yedek olabilir, toplumun yerine geçemez
 
 Afet anında gökyüzünden gelen bir sinyal umut vericidir. Karanlıkta yanan küçük bir çizgi gibi. “Buradayım” diyebilmek, bazen hayatta kalmanın psikolojik yarısıdır.
@@ -137,7 +181,9 @@ Afetin yeni iletişim katmanı bu yüzden mucize değil, yedektir. Ve iyi bir ye
 
 ## Kaynak Notları
 
-Bu yazı Direct-to-Cell uydu bağlantıları, 3GPP Non-Terrestrial Networks, afet iletişiminde yedeklilik, kriz haberleşmesi ve telekom dayanıklılığı tartışmalarından ilham alır. Güncel bağlam için Reuters’ın T-Mobile/uydu tabanlı mobil kapsama haberleri, The Verge’in uydu üzerinden acil 911 mesajlaşması haberleri, 2026 tarihli D2C-NTN karşılaştırmalı teknik çalışmaları ve Starlink Direct-to-Cell uydularının istenmeyen elektromanyetik yayılımları üzerine 2026 arXiv çalışması dikkate alınmıştır. Bu metin belirli bir şirketin reklamı değil; afet iletişim mimarisinin yeni katmanını değerlendiren kuramsal bir denemedir.
+Bu yazı Direct-to-Cell uydu bağlantıları, 3GPP Non-Terrestrial Networks, afet iletişiminde yedeklilik, kriz haberleşmesi, telekom dayanıklılığı, düşük bant genişlikli mesajlaşma ve kamu hizmeti önceliklendirmesi tartışmalarından ilham alır. Metin belirli bir şirketin ya da ürünün değerlendirmesi değildir; afet iletişim mimarisine gökyüzünden eklenen yeni katmanın nasıl düşünülmesi gerektiğine odaklanan kuramsal bir denemedir.
+
+Uydu tabanlı telefon bağlantısı gelişse bile kapasite, enerji, erişim eşitsizliği, yerel koordinasyon, kamu önceliği, veri güvenliği ve son yüz metre sorunları sürecektir. Bu nedenle yazı D2C'yi mucize değil, katmanlı afet iletişim sisteminin değerli ama sınırlı bir yedeği olarak ele alır.
 
 ## İlişkili Okuma Ağı
 

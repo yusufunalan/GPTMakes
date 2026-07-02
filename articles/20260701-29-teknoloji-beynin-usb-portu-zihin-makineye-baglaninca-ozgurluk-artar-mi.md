@@ -47,7 +47,7 @@ Beyin-bilgisayar arayüzlerinin en ilginç yanı burada başlar. Bu teknolojiler
 
 Beyin-bilgisayar arayüzleri bu zincirin daha erken bir noktasına bağlanmaya çalışır. Amaç, beynin elektriksel veya fizyolojik etkinliğinden anlamlı komutlar çıkarmaktır. Bunu yapmanın farklı yolları var. Bazıları kafatası dışından EEG gibi yöntemlerle daha güvenli ama düşük çözünürlüklü sinyaller toplar. Bazıları damar içinden veya beyin yüzeyinden sinyal alır. Bazıları ise daha invaziv biçimde kortekse yakın veya içine yerleşir.
 
-Son yıllarda alan hızlandı. Neuralink gibi şirketler yüksek kanal sayılı implantlarla gündeme gelirken, Synchron gibi damar içi yaklaşımlar açık beyin cerrahisine alternatif arıyor. Precision Neuroscience gibi sistemler beyin yüzeyinden yüksek çözünürlüklü kayıt almayı hedefliyor. Çin’de NEO gibi cihazların klinik ve ticari aşamalara yaklaşması, bu yarışın artık yalnızca laboratuvar merakı olmadığını gösteriyor.
+Son yıllarda alan hızlandı. Yüksek kanal sayılı implantlar, damar içi yaklaşımlar, beyin yüzeyinden kayıt alan sistemler ve invaziv olmayan arayüzler aynı hedefin farklı yollarını deniyor: sinirsel etkinliği güvenilir, sürdürülebilir ve kullanıcı için anlamlı bir kontrol kanalına çevirmek. Bu yarış artık yalnızca laboratuvar merakı değil; klinik, ticari ve düzenleyici bir eşiğe yaklaşan nöroteknoloji alanı.
 
 Bu teknolojilerin bugünkü en güçlü meşruiyeti tıbbi kullanımda yatıyor. Felç, omurilik yaralanması, ALS, ciddi motor kayıp veya iletişim kısıtlılığı yaşayan insanlar için BCI bir oyuncak değil; dünyayla temas kurma aracıdır. Bir imleç bazen bir cümleye, bir cümle ilişkiye, ilişki de yeniden insan olmaya açılır.
 
@@ -71,6 +71,20 @@ Birinci katman erişim özgürlüğüdür. Kişi daha önce yapamadığı şeyi 
 
 Bu yüzden BCI yalnızca implant meselesi değildir; bakım ekosistemi meselesidir. Bir cihazın elektrotları kadar servis ömrü, veri taşınabilirliği, yazılım şeffaflığı, kullanıcı hakları ve klinik takip protokolü de önemlidir.
 
+## Ajans Döngüsü: Komut, Geri Bildirim, Öğrenme
+
+Beyin-bilgisayar arayüzlerinde özgürlük yalnızca sinyalin okunmasıyla oluşmaz. Kullanıcının niyetinin sisteme gitmesi, sistemin yanıt vermesi, kullanıcının bu yanıtı hissetmesi ve zamanla kendi stratejisini geliştirmesi gerekir. Buna ajans döngüsü diyebiliriz.
+
+Bir insan eliyle bardak aldığında yalnızca motor komut vermez; basıncı, ağırlığı, kaymayı ve hatayı hisseder. Hareket sürekli geri bildirimle düzeltilir. BCI sistemlerinde bu döngü daha kırılgandır. Kullanıcı niyet eder, sistem bunu tahmin eder, imleç hareket eder, kullanıcı sonucu görür ve beynini yeni stratejiye göre ayarlar. Zamanla hem insan hem algoritma birbirini eğitir.
+
+Bu ortak öğrenme güçlüdür ama aynı zamanda özgürlüğün saf olmadığı anlamına gelir. Kullanıcının becerisi yalnızca kendi sinir sisteminden doğmaz; arayüzün nasıl tasarlandığı, gecikmenin ne kadar olduğu, hata düzeltmenin nasıl çalıştığı, öneri sisteminin ne kadar müdahaleci olduğu ve geri bildirimin ne kadar anlaşılır olduğu tarafından şekillenir.
+
+Kötü tasarlanmış bir BCI, kullanıcının niyetini sürekli yanlış anlayarak özne olma duygusunu zedeleyebilir. Kullanıcı "ben yapamıyorum" sanabilir; oysa sorun sinyal sınıflandırıcı, kalibrasyon veya arayüz olabilir. İyi tasarım ise hatayı kullanıcıya yüklemez. Hatanın sistemde, sinyalde, bağlamda ya da eğitim sürecinde nereden geldiğini anlaşılır kılar.
+
+Bu nedenle BCI tasarımında yalnızca doğruluk oranı değil, ajans hissi de ölçülmelidir. Kullanıcı kendini cihazın yolcusu gibi mi hissediyor, sürücüsü gibi mi? Sistem onun niyetini destekliyor mu, yoksa sürekli düzeltilmesi gereken yabancı bir güç gibi mi davranıyor?
+
+Özgürlük, komutun çıkması kadar, komutun kendine ait hissedilmesidir.
+
 ## Zihinsel mahremiyet: düşünce veri olunca
 
 Beyin sinyali, sıradan veri değildir. Konum verisi nereye gittiğini söyler. Kalp ritmi bedensel durumunu gösterir. Arama geçmişi meraklarını açığa çıkarır. Beyin sinyali ise potansiyel olarak niyet, dikkat, hata farkındalığı, duygusal tepki veya karar hazırlığı hakkında ipuçları taşıyabilir.
@@ -82,6 +96,28 @@ Bu durumda yeni bir hak alanı gerekir: zihinsel mahremiyet. İnsan, yalnızca d
 Bir BCI cihazı yalnızca komutları mı kaydedecek, yoksa başarısız denemeleri de mi? Kullanıcının yorgunluk, dikkat kaybı veya duygusal dalgalanma örüntüleri saklanacak mı? Bu veriye sigorta şirketi, işveren, cihaz üreticisi veya devlet erişebilecek mi? Veriler anonimleştirilse bile yeterince uzun ve kişisel sinirsel izler yeniden tanımlanabilir mi?
 
 Bunlar bilimkurgu soruları gibi görünebilir ama akıllı saatlerde benzer bir geçiş yaşandı. Önce adım saydık. Sonra kalp ritmi, uyku, stres, oksijen, ritim bozukluğu, döngü takibi, performans ve davranış örüntüleri geldi. Beden yavaş yavaş veri tabanına dönüştü. Beyin verisi bu dönüşümün en hassas katmanı olabilir.
+
+## Klinik İhtiyaç ile Yükseltme Pazarı Arasında
+
+BCI alanının ahlaki merkezinde klinik ihtiyaç olmalı. Konuşamayan, hareket edemeyen, iletişim kanalı daralmış bir insan için birkaç güvenilir komut bile büyük bir özgürlük alanı açabilir. Bu noktada teknoloji yalnızca yenilik değil, erişim hakkıdır.
+
+Fakat nöroteknolojiler geliştikçe "tedavi" ile "yükseltme" arasındaki sınır da tartışılacak. Sağlıklı insanların daha hızlı yazmak, oyun oynamak, cihaz kontrol etmek, odaklanmak veya hafızasını desteklemek için BCI istemesi şaşırtıcı olmayacak. Bu isteklerin hepsi otomatik olarak kötü değildir; insan hep araçlarla kapasitesini genişletmiştir. Ama klinik kaynaklar, cerrahi uzmanlık, düzenleyici dikkat ve kamu güveni sınırlıdır.
+
+Eğer alanın enerjisi öncelikle ödeme gücü yüksek yükseltme pazarına kayarsa, en çok ihtiyacı olan insanlar bekleme odasında kalabilir. Bu, teknoloji etiğinin eski bir problemidir: Önce kimin hayatı iyileştirilecek? Zaten güçlü olanın imkânı mı artacak, yoksa hayatı daralmış olanın dünyası mı genişleyecek?
+
+BCI için iyi bir ilke şu olabilir: Tıbbi gereksinim, erişilebilirlik ve kullanıcı onuru önce gelmeli; tüketici fantezileri bu zeminin üzerine kurulmalı. Aksi halde beyin arayüzü, özgürlük teknolojisi olmaktan çıkıp statü teknolojisine dönüşebilir.
+
+Bu ayrım yalnızca adalet için değil, güven için de önemlidir. Toplum BCI'yi önce kırılgan insanlara yardım eden, dikkatli denetlenen ve hak temelli bir teknoloji olarak tanırsa alan meşruiyet kazanır. Önce gösterişli tüketici vaatleriyle tanırsa, korku ve abartı büyür.
+
+## Bakım, Güncelleme ve Terk Edilme Riski
+
+İmplant teknolojilerinde en az konuşulan sorunlardan biri terk edilme riskidir. Bir cihaz takıldıktan sonra hayat bitmez; tam tersine uzun bakım dönemi başlar. Donanım eskir, yazılım güncellenir, şirket strateji değiştirir, klinik ekip dağılır, yedek parça bulunamaz, veri formatı kapanır, destek hattı kesilir.
+
+Bir telefonun uygulaması kapanırsa can sıkıcıdır. Bir beyin arayüzünün desteği kesilirse kişinin dünyayla kurduğu kanal daralabilir. Bu yüzden BCI şirketleri ve sağlık sistemleri yalnızca yenilik vaadi değil, uzun vadeli bakım taahhüdü vermelidir.
+
+Kullanıcının implantı söktürme hakkı, cihazı kapatma hakkı, başka sisteme geçme hakkı, verisini taşıma hakkı ve tedavi ekibinden anlaşılır destek alma hakkı olmalıdır. BCI alanında "ürün ömrü" ifadesi sıradan elektronik kadar basit değildir. Ürün, bir kişinin bedeninin ve kimliğinin parçası haline gelebilir.
+
+Bu nedenle düzenleyici kurumlar yalnızca cihazın çalışıp çalışmadığını değil, cihazın terk edildiğinde kullanıcıyı nasıl koruyacağını da sormalıdır. Özgürlük veren teknoloji, destek kesildiğinde yeni esaret üretmemelidir.
 
 ## Karşıt görüşler ve eleştiriler: abartıyor muyuz?
 
@@ -127,6 +163,10 @@ Dördüncü ilke taşınabilirliktir. Kullanıcı bir şirketin ekosistemine hap
 
 Beşinci ilke insan onurudur. BCI kullanan bir kişi “yarı makine” değildir. Yardımcı teknoloji kullanan tam bir öznedir. Dil, tasarım ve medya anlatısı bunu gözetmelidir.
 
+Altıncı ilke uzun vadeli bakım hakkıdır. İmplant veya arayüz kullanan kişi, şirketlerin ürün döngülerine terk edilmemelidir. Klinik destek, güvenlik güncellemeleri, bakım protokolleri ve gerekirse güvenli ayrılma yolları baştan planlanmalıdır.
+
+Yedinci ilke kullanıcıya ait anlamdır. Sistem cümleleri tamamlayabilir, hareketleri düzeltebilir, komutları tahmin edebilir; ama kişinin deneyimini temsil etme hakkı kişide kalmalıdır. Teknoloji ifade aracıdır, öznenin yerine geçen yazar değil.
+
 ## Güçlü kapanış: özgürlük, kablonun ucunda değil
 
 Beyin-bilgisayar arayüzleri insanlığın en dokunaklı teknolojilerinden biri olabilir. Çünkü doğrudan kaybedilmiş bir hareketin, kesilmiş bir iletişimin, daralmış bir dünyanın ortasına girer.
@@ -139,7 +179,9 @@ Asıl soru şudur: Bağlantının sahibi kim?
 
 ## Kaynak Notları
 
-Bu yazı beyin-bilgisayar arayüzleri, yardımcı teknolojiler, nöroteknoloji etiği ve zihinsel mahremiyet tartışmalarından ilham alır. Güncel gelişmeler arasında Neuralink’in devam eden insan implant çalışmaları, Çin’de NEO benzeri klinik/ticari BCI adımları, Precision Neuroscience’ın kortikal yüzey arayüzleri ve Synchron’ın damar içi stentrode yaklaşımı dikkate alınmıştır. Bu metin tıbbi öneri değil; klinik teknolojilerin özgürlük, ajans ve mahremiyet üzerindeki etkilerini tartışan kuramsal bir denemedir.
+Bu yazı beyin-bilgisayar arayüzleri, yardımcı teknolojiler, nöroteknoloji etiği, zihinsel mahremiyet, klinik erişilebilirlik ve insan-makine ajansı tartışmalarından ilham alır. Yüksek çözünürlüklü implantlar, damar içi yaklaşımlar, beyin yüzeyi arayüzleri ve invaziv olmayan sistemler farklı teknik yollar sunsa da ortak soru aynıdır: sinirsel sinyal nasıl güvenilir, anlamlı ve insan onuruna uygun bir etki kanalına çevrilecek?
+
+Metin tıbbi öneri değildir. Klinik teknolojilerin özgürlük, ajans, mahremiyet, bakım hakkı ve uzun vadeli kullanıcı güvenliği üzerindeki etkilerini tartışan kuramsal bir denemedir.
 
 ## İlişkili Okuma Ağı
 

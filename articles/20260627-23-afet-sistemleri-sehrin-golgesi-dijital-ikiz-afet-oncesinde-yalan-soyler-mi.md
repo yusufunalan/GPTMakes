@@ -91,7 +91,45 @@ Bu eleştiriler dijital ikiz fikrini çökertmez; ama onu ciddi kılar. Model fe
 
 Afet yönetiminde kesinlik taklidi, lüks değil tehlikedir.
 
-## 5. Özgün düşünce deneyi: iki şehir, aynı sel
+## 5. Veri Adaleti: Haritada Görünmeyen Hayat
+
+Dijital ikizlerin en büyük vaadi görünürlük üretmektir. Ama görünürlük her zaman adil dağılmaz. Bazı mahallelerin sensör verisi boldur; bazı mahallelerin resmi kaydı eksiktir. Bazı binalar düzenli denetlenir; bazıları kayıt dışı tadilatlarla değişmiştir. Bazı nüfus grupları sistemlerde açıkça görünür; bazıları geçici, göçmen, evsiz, kayıt dışı, yalnız ya da kurumlara güvensiz olduğu için veride silik kalır.
+
+Bu yüzden afet dijital ikizi kurarken "veri var mı?" sorusundan önce "veri kimin hakkında var?" diye sormak gerekir. Veri bolluğu eşit temsil anlamına gelmez. Şehrin zengin bölgeleri daha çok ölçülüyor, yoksul bölgeleri daha çok tahmin ediliyorsa model eşitsizliği yeniden üretebilir.
+
+Bir sıcak dalgası modelinde klima sahipliği bilinmiyorsa, gelir düzeyi kaba tahminlerle geçiştiriliyorsa ve yalnız yaşayan yaşlıların listesi güncel değilse, risk haritası serin apartmanlarla sıcak evleri aynı renge boyayabilir. Bir sel modelinde resmi konut verisi kullanılır ama bodrumda yaşayan insanlar hesaba katılmazsa, suyun fiziksel hareketi doğru, insani etkisi yanlış hesaplanır.
+
+Veri adaleti, daha çok veri toplamak demek değildir. Bazen daha az ama daha doğru, daha yerel ve daha etik veri toplamak demektir. Mahremiyet korunmadan kurulan kırılganlık haritası yardım üretirken zarar da üretebilir. Bir mahallenin "riskli" diye etiketlenmesi sigorta, kira, güvenlik ve siyasal temsil açısından yeni sorunlar doğurabilir.
+
+İyi dijital ikiz bu nedenle iki sorumluluğu aynı anda taşır: görünmeyeni görünür kılmak ve görünür kıldığı insanları yeni zararlara açık bırakmamak. Afet yönetiminde veri, merhametin aracı olmalıdır; damgalamanın değil.
+
+## 6. Tatbikat: Modelin Gerçekle Buluştuğu Yer
+
+Dijital ikizlerin değeri yalnızca afet anında anlaşılmaz. Asıl değer, afet öncesi tatbikatlarda ortaya çıkar. Çünkü modelin yanıldığı yeri kriz başlamadan görmek, kriz sırasında öğrenmekten çok daha ucuz ve insancıldır.
+
+Bir şehir yılda birkaç kez farklı senaryoları çalıştırabilir: sıcak dalgası ve elektrik kesintisi, sel ve trafik çökmesi, yangın dumanı ve hastane yoğunluğu, deprem ve iletişim kaybı. Fakat bu tatbikatlar yalnızca ekranda kalırsa eksik olur. Saha ekipleri, mahalle gönüllüleri, sağlık birimleri, okul yöneticileri, bakım evleri, enerji şirketleri ve ulaşım ekipleri aynı senaryoya dahil edilmelidir.
+
+Model "bu yol açık kalır" diyebilir; saha ekibi o yolun pazar günü araçlarla kapandığını söyleyebilir. Model "bu okul toplanma alanı" diyebilir; yerel yönetici okul bahçesinin yazın gölge üretmediğini ve yaşlılar için riskli olduğunu anlatabilir. Model "bu mahalleye SMS gönderildi" diyebilir; gönüllüler orada dil bariyeri olduğunu fark ettirebilir.
+
+Tatbikat modelin itibarını zedelemez; onu güçlendirir. Çünkü iyi sistem yanılma hakkını gerçek felakete saklamaz. Yanılgısını prova sırasında bulur.
+
+Bu yüzden afet dijital ikizi, yalnızca karar vericilerin baktığı büyük ekran olmamalı. Şehirle konuşan bir eğitim aracı olmalı. Her tatbikat sonunda model güncellenmeli, protokoller sadeleşmeli, yerel hatalar kayda geçmeli ve belirsizlik alanları açıkça işaretlenmelidir.
+
+Öğrenmeyen model, güzel bir makettir. Öğrenen model ise şehrin hafızasına dönüşebilir.
+
+## 7. Yönetişim: Model Kimin Adına Konuşuyor?
+
+Dijital ikizlerin teknik tasarımı kadar yönetişimi de önemlidir. Modeli kim kuruyor? Veriye kim erişiyor? Hangi kurum hangi katmanı görebiliyor? Vatandaş kendi verisinin nasıl kullanıldığını biliyor mu? Modelin önerdiği kararlar nasıl denetleniyor? Hatalar kamuya açıklanıyor mu? Özel şirket altyapısı kamusal kararın içine girdiğinde hesap verebilirlik nasıl korunuyor?
+
+Bu sorular ertelenirse dijital ikizler güven kaybeder. Afet sistemi güven kaybederse, en iyi uyarı bile geç kalabilir. İnsanlar resmi mesajlara inanmaz, risk haritasını politik görür, tahliye kararını sorgular, yardım dağıtımını adaletsiz sanır. Model teknik olarak doğru olsa bile toplumsal olarak etkisizleşir.
+
+Bu yüzden şehir ölçeğinde afet dijital ikizi açık ilkelerle yönetilmeli. Hangi verilerin toplandığı, hangi amaçlarla kullanıldığı, ne kadar süre saklandığı, kimlerle paylaşıldığı ve hangi kararları etkilediği anlaşılır biçimde açıklanmalıdır. Hassas bireysel veriler mümkün olduğunca anonimleştirilmeli, toplulaştırılmalı ve kötüye kullanıma karşı korunmalıdır.
+
+Ayrıca modelin karar üzerindeki rolü net olmalıdır. Dijital ikiz öneri üretir; sorumluluğu insan kurumlar taşır. "Algoritma söyledi" cümlesi afet yönetiminde mazeret olmamalıdır. Teknoloji kararın izini güçlendirmeli, sorumluluğu buharlaştırmamalıdır.
+
+Bir şehir, kendini temsil eden modelin kim adına konuştuğunu bilmiyorsa, o model afet öncesinde de güven inşa edemez.
+
+## 8. Özgün düşünce deneyi: iki şehir, aynı sel
 
 Aynı büyüklükte iki şehir düşünelim. İkisinde de aynı yağış düşüyor. İkisinde de dere taşıyor. İkisinde de bazı yollar kapanıyor.
 
@@ -107,7 +145,7 @@ Birinci şehirde model akıllı.
 
 Aradaki fark budur.
 
-## 6. Geleceğe yönelik çıkarımlar: afet ikizinin ilkeleri
+## 9. Geleceğe yönelik çıkarımlar: afet ikizinin ilkeleri
 
 Gelecekte afet dijital ikizleri için bazı ilkeler kaçınılmaz hale gelecek.
 
@@ -123,7 +161,11 @@ Beşinci ilke, offline devamlılık. Afet sistemi internetin varlığına aşır
 
 Altıncı ilke, karar sonrası öğrenme. Her afet veya tatbikat sonrası model güncellenmelidir. Nerede yanıldı? Hangi mahalleyi kaçırdı? Hangi veri gereksizdi? Hangi saha bilgisi kritik çıktı? Öğrenmeyen dijital ikiz, pahalı bir makettir.
 
-## 7. Güçlü kapanış: şehir kendini ekranda değil, krizde tanır
+Yedinci ilke, kamusal anlaşılabilirliktir. Afet modeli yalnızca uzmanların kullandığı kapalı bir araç olarak kalırsa güven üretmesi zorlaşır. Vatandaş, en azından kendi hayatını ilgilendiren risk ve kararların sade açıklamasını görebilmelidir.
+
+Sekizinci ilke, alternatifli eylem önerisidir. Model yalnızca risk göstermekle yetinmemeli; farklı kaynak düzeylerinde yapılabilecek adımları da önermelidir. "Büyük bütçeli çözüm" kadar "yarın sabah uygulanabilecek küçük önlem" de şehir dayanıklılığının parçasıdır.
+
+## 10. Güçlü kapanış: şehir kendini ekranda değil, krizde tanır
 
 Dijital ikizler şehirleri kurtarabilir. Ama yalnızca şehirlerin görmek istediği şeyleri değil, görmekten kaçtığı şeyleri de gösterirse.
 
@@ -137,9 +179,9 @@ Neyi bilmediğini zamanında söyleyen teknolojidir.
 
 ## Kaynak Notları
 
-Bu yazı dijital ikizler, afet yönetimi, iklim kaynaklı bileşik riskler ve sosyal kırılganlık literatüründen ilham alır. 2025-2026 döneminde yayımlanan çalışmalar, sıcak dalgası, elektrik kesintisi ve yangın gibi bileşik afetlerde dijital ikizlerin sensör, uydu, drone ve sosyal risk katmanlarıyla karar desteği üretebileceğini tartışmaktadır. Singapur'un uzun süredir geliştirdiği şehir ölçekli dijital model örnekleri, bu yaklaşımın planlama boyutunu göstermektedir.
+Bu yazı dijital ikizler, afet yönetimi, iklim kaynaklı bileşik riskler, kentsel dayanıklılık, sosyal kırılganlık ve veri etiği literatüründen ilham alır. Şehir ölçekli dijital modellerin planlama ve simülasyon için kullanılması, afet öncesi karar desteği açısından güçlü bir imkân sunar; ancak bu imkânın güvenilirliği verinin kalitesi, sosyal kırılganlık katmanlarının dahil edilmesi, belirsizliğin gösterilmesi ve hesap verebilir yönetişimle sınırlıdır.
 
-Kullanılan güncel kaynaklar: "Hazard-Responsive Digital Twin for Climate-Driven Urban Resilience and Equity" başlıklı 2025 çalışması, Virtual Singapore örneği, iklim kaynaklı bileşik afet ve kentsel dayanıklılık literatürü.
+Metin belirli bir dijital ikiz ürününü ya da şehir örneğini öne çıkarmak yerine genel ilkeye odaklanır: Afet modellemesi yalnızca altyapıyı değil, o altyapı bozulduğunda kimin kırılgan hale geleceğini de görmelidir.
 
 ## İlişkili Okuma Ağı
 

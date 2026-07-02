@@ -55,7 +55,7 @@ Böylece beden, sürekli güncellenen bir pano haline geliyor.
 
 Bu panoda adım sayısı, kalp atış hızı, HRV, uyku süresi, dinlenme nabzı, stres skoru, enerji puanı, toparlanma seviyesi, oksijen satürasyonu ve daha birçok işaret var. Bunların bazıları doğrudan ölçülüyor, bazıları hesaplanıyor, bazıları tahmin ediliyor. Kullanıcı açısından ise aradaki fark çoğu zaman siliniyor. Ekranda sayı varsa gerçek gibi görünüyor.
 
-2025’te yayımlanan ve 800 genç yetişkini üç ay izleyen bir çalışma, en azından bazı tüketici akıllı saatlerinin stres düzeyini kişilerin kendi bildirdiği stresle çok zayıf ilişkilendirdiğini gösterdi. Bu, bütün cihazlar işe yaramaz demek değildir. Ama şu uyarıyı güçlendirir: tüketici cihazının verdiği “stres” etiketi, kişinin gerçek psikolojik durumunun doğrudan aynası olmayabilir.
+Tüketici cihazları üzerine yapılan araştırmalar, bu skorların yararlı ipuçları verebildiğini ama kişinin gerçek psikolojik durumunun doğrudan aynası gibi okunmaması gerektiğini hatırlatır. Özellikle stres ve uyku gibi karmaşık deneyimler, tek bir sensör dizisine indirgenemeyecek kadar bağlama bağlıdır. Bu, bütün cihazlar işe yaramaz demek değildir. Ama şu uyarıyı güçlendirir: tüketici cihazının verdiği "stres" etiketi, kişinin gerçek psikolojik durumunun doğrudan aynası olmayabilir.
 
 ## Derin analiz: beden verisi neden bu kadar ikna edici?
 
@@ -71,7 +71,19 @@ Böylece insanın iç duyumu ile dış verisi arasında yeni bir hiyerarşi kuru
 
 Bu dönüşümün adı, beden farkındalığının dijital aracıya devredilmesi olabilir.
 
-## Veri nocebosu: sayı semptom üretebilir mi?
+## İnterosepsiyon: İç Duyunun Eski Dili
+
+Psikolojide interosepsiyon, bedenin iç sinyallerini fark etme ve yorumlama kapasitesi olarak düşünülebilir: kalp atışı, nefes, mide gerginliği, kas yorgunluğu, sıcaklık, açlık, susuzluk, huzursuzluk, uyku hali. İnsan kendini yalnızca düşünceleriyle değil, bu iç sinyallerle de tanır.
+
+Giyilebilir cihazlar bu alana dış duyum ekler. Kalp atışını hissetmek yerine sayıyla görmek, uykuyu hatırlamak yerine skorla değerlendirmek, yorgunluğu bedenden okumak yerine toparlanma puanına bakmak. Bu bazen faydalıdır; çünkü beden hissi yanıltıcı olabilir. Ama sürekli dış ölçüme başvurmak, iç duyunun incelmesini de engelleyebilir.
+
+Bir müzisyenin kulağı pratikle gelişir. Bir fotoğrafçının ışık sezgisi bakarak gelişir. Beden farkındalığı da benzer biçimde dikkatle gelişir. Her küçük sinyalin anlamını cihazdan öğrenmeye çalışırsak, kendi iç sözlüğümüz fakirleşebilir. "Ben şu anda gergin miyim, heyecanlı mıyım, uykusuz muyum, kahve mi fazla geldi, yoksa yalnızca acele mi ediyorum?" sorularını sorma alışkanlığı azalabilir.
+
+Bu noktada amaç veriye sırt çevirmek değil, iki dili birlikte konuşmaktır. İç duyum "kendimi sıkışmış hissediyorum" der. Saat "nabız yüksek, hareket az, uyku düşük" diyebilir. İyi kullanımda bu iki bilgi birbirini tamamlar. Sorun, ekranın bedeni susturmasıdır.
+
+Kendi bedenini anlamak bir çeviri işidir. Akıllı saat iyi bir sözlük olabilir; ama anadilimizin yerine geçmemelidir.
+
+## Veri Nocebosu: Sayı Semptom Üretebilir mi?
 
 Nocebo etkisi, olumsuz beklentinin bedensel deneyimi kötüleştirmesidir. Bir yan etki bekleyen kişi, o yan etkiyi daha fazla hissedebilir. Aynı mantık sağlık verisi için de geçerli olabilir.
 
@@ -82,6 +94,30 @@ Bu döngüde cihaz sebep değil, tetikleyici olabilir. Cihaz yanlış ölçmüş
 Burada mesele “akıllı saatler zararlıdır” demek değil. Mesele, ham verinin psikolojik bağlama ihtiyaç duymasıdır. İnsan bedeni yalnızca biyolojik sistem değildir; anlam üreten sistemdir. Aynı kalp atışı merdiven çıkınca normal, panik anında korkutucu, aşık olunca güzel, gece yatakta fark edilince tehdit edici olabilir.
 
 Algoritma bu bağlamı çoğu zaman bilmez.
+
+## Ortosomniya ve Mükemmel Uyku Baskısı
+
+Uyku takibi özellikle ilginçtir çünkü uyku, kontrol etmeye çalıştıkça kaçabilen bir süreçtir. İnsan uykuya emredemez; uykuya ancak koşul hazırlayabilir. Bu yüzden uyku skorları bazı kişilerde düzenleyici olurken, bazı kişilerde performans kaygısı yaratabilir.
+
+Kişi yatağa yalnızca dinlenmek için değil, iyi skor almak için girmeye başlarsa uyku yeni bir sınava dönüşür. Derin uyku dakikası, REM oranı, toparlanma puanı, dinlenme nabzı ve ertesi gün grafiği beklentisi, zihni gece boyunca tetikte tutabilir. Sabah kötü skor görmek ise günün anlamını daha ilk dakikada bozabilir.
+
+Bu durumun özü şudur: Ölçülen davranış, ölçümün kendisinden etkilenir. İnsan uyku verisini izledikçe uykuya daha dikkatli davranabilir; ama fazla dikkat, uykuya düşman olabilir. Benzer biçimde nabız takibi kalp sağlığı farkındalığı yaratabilir; fakat kaygıya yatkın kişilerde sürekli kontrol döngüsü doğurabilir.
+
+Burada kişisel fark çok önemlidir. Bir kullanıcı için günlük skor motivasyon olabilir. Başka biri için aynı skor kaygı üretir. Dolayısıyla giyilebilir cihazların psikolojik güvenliği, tek tip tavsiye veremez. İyi sistem, kullanıcının veriyle ilişkisini de izleyebilmelidir: Bu kişi skora bakınca daha mı iyi davranıyor, yoksa daha mı kaygılanıyor?
+
+Belki geleceğin akıllı cihazlarında yalnızca "uyku skoru" değil, "skor gösterme sıklığı" ayarı da önemli olacak. Her veri her gün görülmek zorunda değildir.
+
+## Arayüz Dili: Cihaz Nasıl Konuşmalı?
+
+Tüketici sağlık cihazlarının psikolojik etkisi yalnızca ne ölçtükleriyle değil, nasıl konuştuklarıyla da ilgilidir. "Stresin yüksek", "hazır değilsin", "kötü uyudun", "bugün toparlanamadın" gibi ifadeler kullanıcıya kesinlik ve hüküm taşır. Oysa çoğu skor olasılık, tahmin ve sınırlı bağlam içerir.
+
+Daha sağlıklı dil şöyle olabilir: "Fizyolojik uyarılmışlık artmış görünüyor; egzersiz, kahve, hastalık veya duygusal stres etkili olabilir." Ya da: "Uyku verin düşük toparlanmaya işaret ediyor olabilir; gün içindeki hislerinizi de dikkate alın." Bu cümleler daha uzun ama daha dürüsttür.
+
+Arayüz tasarımında belirsizlik gösterimi kritik hale gelecek. Kullanıcı yalnızca skor değil, skorun güven düzeyini de görmeli. Sensör gevşek miydi? Ölçüm gece boyunca kesildi mi? Fiziksel aktivite stres skorunu bozmuş olabilir mi? Algoritma bu kişi için yeterince kişisel veri biriktirdi mi?
+
+Tıp dilinde bir test sonucu çoğu zaman yorumla birlikte gelir. Tüketici cihazları ise sonuçları bazen çıplak ve gündelik hayata doğrudan müdahale eden komutlar gibi sunar. Bu fark psikolojik risk üretir.
+
+İyi cihaz, fazla emin konuşmayan cihazdır. Çünkü insan bedeni karmaşık, bağlamlı ve bazen çelişkilidir.
 
 ## Karşıt görüşler ve eleştiriler
 
@@ -121,6 +157,10 @@ Birinci çıkarım: sağlık skorları kesin hüküm gibi tasarlanmamalı. Tüke
 
 Dördüncü çıkarım: bedenle barışmak için bazen ölçümü azaltmak gerekebilir. Her gün tartılmak bazı kişilere disiplin verir, bazılarına takıntı. Her gece uyku skoru bakmak bazılarına düzen sağlar, bazılarına uykusuzluk kaygısı. Aynı araç farklı psikolojilerde farklı sonuç verir.
 
+Beşinci çıkarım: kişisel veri protokolü oluşturmak gerekir. Her insan şu soruları kendine sorabilir: Hangi veriler bana gerçekten yardımcı oluyor? Hangileri kaygımı artırıyor? Hangi skorları her gün, hangilerini haftalık görmeliyim? Hangi uyarılar tıbbi olarak ciddiye alınmalı, hangileri bağlamla değerlendirilmelidir? Hangi durumda profesyonel yardım almalıyım?
+
+Altıncı çıkarım: sağlık teknolojileri kişiyi yalnızca daha çok izlemeye değil, daha iyi hissetmeye yönlendirmeli. Bazen en iyi özellik yeni sensör değil, ekrandan uzak durma önerisidir. Cihaz "bugün veriye bakmadan bedenini dinle" diyebiliyorsa, gerçekten akıllı olmaya yaklaşır.
+
 ## Güçlü kapanış: bedenin sesi ekrandan eski
 
 Akıllı saat modern insanın bileğindeki küçük kahin gibi. Bazen doğru fısıldıyor, bazen fazla emin konuşuyor, bazen de bilmediği şeyi biliyormuş gibi yapıyor.
@@ -135,7 +175,9 @@ Ekran bilgi verebilir. Ama bedenin son hakemi olmamalı.
 
 ## Kaynak Notları
 
-Bu yazı giyilebilir sağlık teknolojileri, tüketici tipi stres/uyku skorları, beden algısı, nocebo etkisi ve dijital sağlık okuryazarlığı tartışmalarından ilham alır. Güncel bağlam için The Guardian’ın 8 Ağustos 2025 tarihli, akıllı saatlerin stres düzeyi çıkarımlarının sınırlılığına ilişkin haberleştirdiği Leiden Üniversitesi çalışması dikkate alınmıştır. Ayrıca psikolojide interosepsiyon, sağlık kaygısı, nocebo ve ölçüm davranışı literatürü kuramsal arka plan olarak kullanılmıştır. Bu yazı tıbbi tanı veya cihaz karşıtı manifesto değildir; tüketici verisinin psikolojik anlamını sorgulayan bir denemedir.
+Bu yazı giyilebilir sağlık teknolojileri, tüketici tipi stres ve uyku skorları, beden algısı, interosepsiyon, sağlık kaygısı, nocebo etkisi, ortosomniya ve dijital sağlık okuryazarlığı tartışmalarından ilham alır. Tüketici cihazlarının ürettiği veriler bazı kişiler için faydalı ipuçları sağlayabilir; ancak bu verilerin tıbbi tanı, psikolojik kesinlik veya beden deneyiminin yerine geçen nihai hakem gibi okunması sorunludur.
+
+Metin cihaz karşıtı bir manifesto değildir. Giyilebilir teknolojinin değerini kabul eder; fakat verinin arayüz dili, belirsizlik düzeyi ve kullanıcı psikolojisiyle birlikte düşünülmesi gerektiğini savunur.
 
 ## İlişkili Okuma Ağı
 
